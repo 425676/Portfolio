@@ -9,6 +9,5 @@ Detailed description.
 ![RunningCalculator]()
 
 *[Windows]()
-*[Windows]()
 *[MacOS]()
 *[SourceCode]()
