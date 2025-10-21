@@ -4,7 +4,7 @@
 
 ### Calculator (2025)
 
-Detailed description.
+Detailed description
 
 ![RunningCalculator](https://github.com/425676/Portfolio/blob/main/images/calc.png?raw=true)
 
