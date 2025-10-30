@@ -67,11 +67,15 @@ void keyPressed() {
     dVal = "0";
     left = false;
     op = '-';
+  } else if (keyCode == 106) {
+    dVal = "0";
+    left = false;
+    op = '*';
   } else if (keyCode == 111 || keyCode == 47) {
     dVal = "0";
     left = false;
     op = '/';
-  } else if (keyCode == 32) {
+  } else if (keyCode == 32 || keyCode == 67) {
     left = true;
     l = 0;
     r = 0;
@@ -220,7 +224,7 @@ void keyPressed() {
     }
   } else if (keyCode == 103 || keyCode == 55) {
     if (dVal.length()<23) {
-      if (left == true) {
+      if (left) {
         if (dVal.equals("7")) {
           dVal = "7";
           l = float(dVal);
