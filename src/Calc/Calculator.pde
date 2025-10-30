@@ -138,6 +138,146 @@ void keyPressed() {
         }
       }
     }
+  } else if (keyCode == 99 || keyCode == 51) {
+    if (dVal.length()<23) {
+      if (left == true) {
+        if (dVal.equals("3")) {
+          dVal = "3";
+          l = float(dVal);
+        } else {
+          dVal += "3";
+          l = float(dVal);
+        }
+      } else if (!left) {
+        if (dVal.equals("3")) {
+          dVal = "3";
+          r = float(dVal);
+        } else {
+          dVal += "3";
+          r = float(dVal);
+        }
+      }
+    }
+  } else if (keyCode == 100 || keyCode == 52) {
+    if (dVal.length()<23) {
+      if (left == true) {
+        if (dVal.equals("4")) {
+          dVal = "4";
+          l = float(dVal);
+        } else {
+          dVal += "4";
+          l = float(dVal);
+        }
+      } else if (!left) {
+        if (dVal.equals("4")) {
+          dVal = "4";
+          r = float(dVal);
+        } else {
+          dVal += "4";
+          r = float(dVal);
+        }
+      }
+    }
+  } else if (keyCode == 101 || keyCode == 53) {
+    if (dVal.length()<23) {
+      if (left == true) {
+        if (dVal.equals("5")) {
+          dVal = "5";
+          l = float(dVal);
+        } else {
+          dVal += "5";
+          l = float(dVal);
+        }
+      } else if (!left) {
+        if (dVal.equals("5")) {
+          dVal = "5";
+          r = float(dVal);
+        } else {
+          dVal += "5";
+          r = float(dVal);
+        }
+      }
+    }
+  } else if (keyCode == 102 || keyCode == 54) {
+    if (dVal.length()<23) {
+      if (left == true) {
+        if (dVal.equals("6")) {
+          dVal = "6";
+          l = float(dVal);
+        } else {
+          dVal += "6";
+          l = float(dVal);
+        }
+      } else if (!left) {
+        if (dVal.equals("6")) {
+          dVal = "6";
+          r = float(dVal);
+        } else {
+          dVal += "6";
+          r = float(dVal);
+        }
+      }
+    }
+  } else if (keyCode == 103 || keyCode == 55) {
+    if (dVal.length()<23) {
+      if (left == true) {
+        if (dVal.equals("7")) {
+          dVal = "7";
+          l = float(dVal);
+        } else {
+          dVal += "7";
+          l = float(dVal);
+        }
+      } else if (!left) {
+        if (dVal.equals("7")) {
+          dVal = "7";
+          r = float(dVal);
+        } else {
+          dVal += "7";
+          r = float(dVal);
+        }
+      }
+    }
+  } else if (keyCode == 104 || keyCode == 56) {
+    if (dVal.length()<23) {
+      if (left == true) {
+        if (dVal.equals("8")) {
+          dVal = "8";
+          l = float(dVal);
+        } else {
+          dVal += "8";
+          l = float(dVal);
+        }
+      } else if (!left) {
+        if (dVal.equals("8")) {
+          dVal = "8";
+          r = float(dVal);
+        } else {
+          dVal += "8";
+          r = float(dVal);
+        }
+      }
+    }
+  } else if (keyCode == 105 || keyCode == 57) {
+    if (dVal.length()<23) {
+      if (left == true) {
+        if (dVal.equals("9")) {
+          dVal = "9";
+          l = float(dVal);
+        } else {
+          dVal += "9";
+          l = float(dVal);
+        }
+      } else if (!left) {
+        if (dVal.equals("9")) {
+          dVal = "9";
+          r = float(dVal);
+        } else {
+          dVal += "9";
+          r = float(dVal);
+        }
+      }
+    }
   }
 }
 
