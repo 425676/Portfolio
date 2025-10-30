@@ -349,6 +349,14 @@ void mousePressed() {
         r = sqrt(r);
         dVal = str(r);
       }
+    } else if (buttons [i].over && buttons [i].val == '|') {
+      if (left) {
+        l = abs(l);
+        dVal = str(l);
+      } else {
+        r = abs(r);
+        dVal = str(r);
+      }
     }
   }
   // All number buttons
