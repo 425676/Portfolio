@@ -36,7 +36,7 @@ void setup() {
   buttons[8] = new Button(210, 120, 20, 20, '√', #FFFFFF, #B7B3B3, true);
   buttons[9] = new Button(210, 90, 20, 20, '²', #FFFFFF, #B7B3B3, true);
   buttons[10] = new Button(210, 60, 20, 20, 'π', #FFFFFF, #B7B3B3, true);
-  buttons[11] = new Button(240, 120, 20, 20, '+', #FFFFFF, #B7B3B3, true);
+  buttons[11] = new Button(240, 120, 20, 20, '|', #FFFFFF, #B7B3B3, true);
 }
 
 void draw() {
@@ -322,7 +322,7 @@ void mousePressed() {
       dVal = "0";
       left = false;
       op = '*';
-    } else if (buttons [i].over && buttons [i].val == '÷') {
+    } else if (buttons [i].over && buttons [i].val == '/') {
       dVal = "0";
       left = false;
       op = '/';
@@ -397,12 +397,12 @@ void updateDisplay() {
 void performCalculation() {
   if (op == '+') {
     result = l + r;
+  } else if (op == '/') {
+    result = l / r;
   } else if (op == '-') {
     result = l - r;
   } else if (op == '*') {
     result = l * r;
-  } else if (op == '÷') {
-    result = l / r;
   }
   dVal = str(result);
 }
