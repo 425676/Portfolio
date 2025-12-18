@@ -26,3 +26,11 @@ A simple interactive calculator built using HTML, CSS, and JavaScript. It perfor
   ![Running](https://github.com/425676/Portfolio/blob/main/images/makingcars.png)
 
   [Link to Repo](https://github.com/425676/Portfolio/tree/main/src/MakingCars)
+
+  ## Term 2 Projects
+
+  ### FireIceSlime (2025)
+
+  ### Screen Manager (2025)
+
+  ### Ball Bounce (2025)
