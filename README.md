@@ -2,7 +2,7 @@
 
 ## Misc
 
-![CTE Certification](https://github.com/425676/Portfolio/blob/main/images/Max%20Elkin_Computer%20Programming%201_12182025.pdf)
+![CTE Certification](https://github.com/425676/Portfolio/blob/1cac30492de2bdbfe1c793959493e66da791b803/images/Max%20Elkin_Computer%20Programming%201_12182025.pdf)
 
 ## Term 1 Projects
 
