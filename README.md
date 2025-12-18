@@ -4,7 +4,7 @@
 
 ![CTE Certification](https://github.com/425676/Portfolio/blob/main/images/Max%20Elkin_Computer%20Programming%201_12182025.pdf)
 
-[Contact Info](mxelkin111@gmail.com)
+[Contact Info - mxelkin111@gmail.com]
 
 ## Term 1 Projects
 
