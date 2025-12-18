@@ -1,4 +1,8 @@
-# Max Elkin's Programming Portfolio | 2026
+# Max Elkin's Programming Portfolio | 2025-2026
+
+## Misc
+
+![CTE Certification](https://github.com/425676/Portfolio/blob/main/images/Max%20Elkin_Computer%20Programming%201_12182025.pdf)
 
 ## Term 1 Projects
 
