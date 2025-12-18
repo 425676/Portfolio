@@ -23,6 +23,6 @@ A simple interactive calculator built using HTML, CSS, and JavaScript. It perfor
 
   DESCRIPTION PLACEHOLDER
 
-  ![Running](PLACEHOLDER LINK)
+  ![Running](https://github.com/425676/Portfolio/blob/main/images/makingcars.png)
 
   [Link to Repo](https://github.com/425676/Portfolio/tree/main/src/MakingCars)
