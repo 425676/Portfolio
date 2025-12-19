@@ -35,7 +35,7 @@ A simple interactive calculator built using HTML, CSS, and JavaScript. It perfor
 
   ![Running]()
 
-  [Link to Repo]()
+  [Link to Repo](https://github.com/FrozenTea11/5-fire-pool/tree/main/src/FireIceSlime)
 
   ### Screen Manager (2025)
   
@@ -43,7 +43,7 @@ A simple interactive calculator built using HTML, CSS, and JavaScript. It perfor
 
   ![Running]()
 
-  [Link to Repo]()
+  [Link to Repo](https://github.com/425676/Portfolio/tree/main/src)
 
   ### Ball Bounce (2025)
 
@@ -51,4 +51,4 @@ A simple interactive calculator built using HTML, CSS, and JavaScript. It perfor
 
   ![Running]()
 
-  [Link to Repo]()
+  [Link to Repo](https://github.com/425676/Portfolio/tree/main/src)
