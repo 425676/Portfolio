@@ -31,17 +31,17 @@ A simple interactive calculator built using HTML, CSS, and JavaScript. It perfor
 
   ### FireIceSlime (2025)
 
-  DESCRIPTION PLACEHOLDER
+  A simple 2D platformer game built using Processing (Java mode). It features a slime character that can move, jump, and   interact with platforms, hazards, and projectiles within structured levels. The code handles player input, collision     detection, level logic, and rendering through modular classes, while the main game loop manages updates, drawing, and    overall game state using built-in Processing functions.
 
-  ![Running]()
+  ![Running](https://github.com/425676/Portfolio/blob/main/images/Screenshot%202025-12-19%20001638.png)
 
   [Link to Repo](https://github.com/FrozenTea11/5-fire-pool/tree/main/src/FireIceSlime)
 
   ### Screen Manager (2025)
   
-  DESCRIPTION PLACEHOLDER
+  The screen manager controls navigation between different game states using a single character variable that represents   the active screen. It switches between screens such as the start menu, settings, audio menu, gameplay, and game over     based on button interactions and user input. A centralized switch statement in the main draw loop determines which       screen-specific logic and rendering code runs, keeping UI handling and game flow organized without using a complex       state management system.
 
-  ![Running]()
+  ![Running](https://github.com/425676/Portfolio/blob/main/images/Screenshot%202025-12-19%20002700.png)
 
   [Link to Repo](https://github.com/425676/Portfolio/tree/main/src)
 
