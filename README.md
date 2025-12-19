@@ -31,6 +31,24 @@ A simple interactive calculator built using HTML, CSS, and JavaScript. It perfor
 
   ### FireIceSlime (2025)
 
+  DESCRIPTION PLACEHOLDER
+
+  ![Running]()
+
+  [Link to Repo]()
+
   ### Screen Manager (2025)
+  
+  DESCRIPTION PLACEHOLDER
+
+  ![Running]()
+
+  [Link to Repo]()
 
   ### Ball Bounce (2025)
+
+  DESCRIPTION PLACEHOLDER
+
+  ![Running]()
+
+  [Link to Repo]()
